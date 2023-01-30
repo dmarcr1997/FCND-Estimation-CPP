@@ -9,12 +9,12 @@ QPosXYStd = .05
 QPosZStd = .05
 QVelXYStd = .05
 QVelZStd = .1
-QYawStd = .05
+QYawStd = 0.09
 
 # GPS measurement std deviations
 GPSPosXYStd = 1
 GPSPosZStd = 3
-GPSVelXYStd = .1
+GPSVelXYStd = .2
 GPSVelZStd = .3
 
 # Magnetometer
